@@ -1,0 +1,8 @@
+.container-fluid{
+    margin: 1% auto;
+}
+
+.card text-center mx-auto{
+    display: none;
+    background-color: red;
+}
